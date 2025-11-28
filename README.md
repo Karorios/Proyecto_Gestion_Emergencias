@@ -10,7 +10,7 @@ Este proyecto implementa un **sistema distribuido completo** que simula el proce
 Desde que un usuario reporta una emergencia, hasta que una ambulancia la acepta y el dashboard central registra el evento, todo funciona mediante **comunicación distribuida**, interfaces gráficas e intercambio de mensajes asíncronos usando ZeroMQ.
 
 El sistema se divide en varios módulos independientes que se comunican entre sí mediante sockets ZMQ en diferentes puertos.
-
+Para correr el programa comando: python run_all.py
 ---
 
 ## 🧩 Componentes del Sistema
